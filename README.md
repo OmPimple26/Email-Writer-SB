@@ -183,7 +183,7 @@ AI Reply
 
 ## 📸 Screenshots
 
-
+<img width="1920" height="864" alt="Email Writer SB Project Home Page" src="https://github.com/user-attachments/assets/bee01ea4-5a5f-4dd5-ad53-5bcf9764afd5" />
 
 ---
 
